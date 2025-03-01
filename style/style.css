@@ -119,6 +119,7 @@ main section a:hover{
 }
 
 #dark-mode-btn {
+    margin: 12px 0px 15px 0px;
     padding: 5px 10px;
     background: #f8eaff;
     color: #000000;
